@@ -1,0 +1,6 @@
+.introductionContainer{
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(12);
+    place-content: start;
+}

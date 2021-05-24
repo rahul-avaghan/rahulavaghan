@@ -1,0 +1,16 @@
+.heroImage > img {
+  height: 450px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .heroImage > img {
+    height: 100px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+  }
+}

@@ -1,0 +1,11 @@
+.connections {
+  display: grid;
+  grid-template-columns: 50px 50px;
+  padding: 20px 0px;
+}
+
+.connections > li {
+    width: 30px;
+    height: 30px;
+  }
+  

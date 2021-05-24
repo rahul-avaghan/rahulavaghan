@@ -1,0 +1,52 @@
+.cardContainer {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  row-gap: 30px;
+}
+.card {
+  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.1);
+  padding: 1em;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  .card {
+    grid-template-columns: max-content 1fr;
+    column-gap: 10px;
+    font-size: small;
+  }
+  .description {
+    display: none;
+  }
+}
+.description {
+  margin-top: 10px;
+}
+.companyLogo {
+  width: 100px;
+  height: 100px;
+}
+
+.details {
+}
+@media only screen and (max-width: 600px) {
+  .projectDemo {
+    display: none;
+  }
+}
+.videoList {
+  display: grid;
+  grid-template-columns: max-content;
+  grid-auto-flow: column;
+  column-gap: 20px;
+}
+
+.videoHeader {
+  padding: 20px 0;
+}
+.videoCaption {
+  line-height: 3;
+  color: var(--light-grey);
+}

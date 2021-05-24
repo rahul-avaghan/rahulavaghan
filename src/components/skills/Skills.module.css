@@ -1,0 +1,15 @@
+.container {
+  /* background: rgb(215, 239, 254); */
+  display: grid;
+  padding: 10px;
+}
+.skillContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-flow: row;
+  column-gap: 20px;
+}
+.skill {
+  padding: 10px;
+  border-radius: 5px;
+}
