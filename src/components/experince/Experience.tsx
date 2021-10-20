@@ -36,7 +36,7 @@ export default function () {
             />
           </div>
           <div className={styles.details}>
-            <h3>Immobilien Scout</h3>
+            <h3>NT-ware Systemprogrammierungs-GmbH</h3>
             <p>2019 Sep - Present</p>
             <p className={styles.description}>
               ✅ Working on Uniflow online product used in various Canon
