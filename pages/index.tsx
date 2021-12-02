@@ -20,6 +20,12 @@ export default function Home() {
           href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap"
           rel="stylesheet"
         />
+        <meta property="og:title" content="Resume for rahul avaghan" />
+        <meta property="og:description" content="Quick career walk through." />
+        <meta property="og:image" content="/rahul.jpeg" />
+        <meta property="og:type" content="article" />
+        <meta property="og:locale" content="en_GB" />
+        <meta name="robots" content="all" />
       </Head>
 
       <main className={styles.container}>
@@ -32,13 +38,11 @@ export default function Home() {
           <Experience />
         </section>
         <section>
-          <BlogList/>
+          <BlogList />
         </section>
       </main>
-      
-      <footer className={styles.footer}>
-        Hand crafted by me ❤️
-      </footer>
+
+      <footer className={styles.footer}>Hand crafted by me ❤️</footer>
     </div>
   );
 }

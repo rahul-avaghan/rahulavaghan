@@ -1,6 +1,6 @@
 import styles from "./Experince.module.css";
 import ReactPlayer from "react-player";
-export default function () {
+export default function experience() {
   return (
     <div>
       <h2 className="sectionHeader"> 👨‍💻 Work Experience </h2>
