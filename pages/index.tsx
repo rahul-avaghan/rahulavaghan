@@ -10,22 +10,43 @@ import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
-    <div>
+    <>
       <Head>
-        <title>Rahul Avaghan</title>
-        <meta name="description" content="Rahul avaghan" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap"
           rel="stylesheet"
         />
+        <meta name="robots" content="all" />
+
+        <title>Resume for rahul avaghan</title>
+        <meta name="title" content="Resume for rahul avaghan" />
+        <meta name="description" content="Quick career walk through." />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://rahulavaghan.vercel.app/" />
         <meta property="og:title" content="Resume for rahul avaghan" />
         <meta property="og:description" content="Quick career walk through." />
-        <meta property="og:image" content="/rahul.jpeg" />
-        <meta property="og:type" content="article" />
-        <meta property="og:locale" content="en_GB" />
-        <meta name="robots" content="all" />
+        <meta
+          property="og:image"
+          content="https://rahulavaghan.vercel.app/rahul.jpeg"
+        />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta
+          property="twitter:url"
+          content="https://rahulavaghan.vercel.app/"
+        />
+        <meta property="twitter:title" content="Resume for rahul avaghan" />
+        <meta
+          property="twitter:description"
+          content="Quick career walk through."
+        />
+        <meta
+          property="twitter:image"
+          content="https://rahulavaghan.vercel.app/rahul.jpeg"
+        />
       </Head>
 
       <main className={styles.container}>
@@ -43,6 +64,6 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>Hand crafted by me ❤️</footer>
-    </div>
+    </>
   );
 }
