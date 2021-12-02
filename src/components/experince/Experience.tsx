@@ -5,6 +5,24 @@ export default function () {
     <div>
       <h2 className="sectionHeader"> 👨‍💻 Work Experience </h2>
       <div className={styles.cardContainer}>
+      <div className={styles.card}>
+          <div>
+            <img
+              className={styles.companyLogo}
+              src="https://media-exp1.licdn.com/dms/image/C4D0BAQHymfxcVPKrhA/company-logo_200_200/0/1581940288258?e=1646265600&v=beta&t=VokvzGfiykmV9byqMJePE-BbvnjmqYEWAIg0xo33Mss"
+              alt="company name"
+            />
+          </div>
+          <div className={styles.details}>
+            <h3>Coachhub</h3>
+            <p>2021 June - Present</p>
+            <p className={styles.description}>
+              * Contributed to backoffice application for managing coachee data and agreements.
+              * Developed integration for syncronizing coachee and organization data.
+              * Extensively developed automations for managing coachee status in the backend. 
+            </p>
+          </div>
+        </div>
         <div className={styles.card}>
           <div>
             <img
@@ -15,7 +33,7 @@ export default function () {
           </div>
           <div className={styles.details}>
             <h3>Immobilien Scout</h3>
-            <p>2019 Sep - Present</p>
+            <p>2019 Sep - 2021 May</p>
             <p className={styles.description}>
               About the company: ImmobilienScout24 is a real estate portal with
               over 7 million visitors and 2 billion page views per month. The
