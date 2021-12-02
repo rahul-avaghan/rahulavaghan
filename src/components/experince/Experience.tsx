@@ -9,12 +9,12 @@ export default function () {
           <div>
             <img
               className={styles.companyLogo}
-              src="https://media-exp1.licdn.com/dms/image/C4D0BAQHymfxcVPKrhA/company-logo_200_200/0/1581940288258?e=1646265600&v=beta&t=VokvzGfiykmV9byqMJePE-BbvnjmqYEWAIg0xo33Mss"
+              src="https://media-exp1.licdn.com/dms/image/C4D0BAQHQ4AuFrmOQ1A/company-logo_200_200/0/1567611189744?e=1646265600&v=beta&t=eU9DRHi4btwR6sUXePhB0wLerjSFBBQswvwqm33RF60"
               alt="company name"
             />
           </div>
           <div className={styles.details}>
-            <h3>Coachhub</h3>
+            <h3>Coachhub - the digital coaching platform</h3>
             <p>2021 June - Present</p>
             <p className={styles.description}>
               * Contributed to backoffice application for managing coachee data and agreements.
