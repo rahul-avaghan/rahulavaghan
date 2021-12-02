@@ -31,7 +31,7 @@ export default function () {
           <div>
             <img
               className={styles.companyLogo}
-              src="https://media-exp1.licdn.com/dms/image/C4D0BAQHdOTXlPPGMiA/company-logo_100_100/0/1550135422068?e=1629936000&v=beta&t=iQc7bO32G12IasdAM0z92TOnS-S9Eyhkg5vNclufLpM"
+              src="https://media-exp1.licdn.com/dms/image/C4D0BAQF8xaq3CGDOWw/company-logo_200_200/0/1624621530961?e=1646265600&v=beta&t=pXwEO360FkwGLa72oSTCHkC-6Iaoo9emXPgbK4UnlaY"
               alt="company name"
             />
           </div>
