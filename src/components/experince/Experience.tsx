@@ -9,7 +9,7 @@ export default function () {
           <div>
             <img
               className={styles.companyLogo}
-              src="https://media-exp1.licdn.com/dms/image/C4D0BAQHymfxcVPKrhA/company-logo_200_200/0/1581940288258?e=1629936000&v=beta&t=3gC7su0WF_NYo3W5nRDqp6OyegPzzW_R1aq6lN5nAO4"
+              src="https://media-exp1.licdn.com/dms/image/C4D0BAQHymfxcVPKrhA/company-logo_200_200/0/1581940288258?e=1646265600&v=beta&t=VokvzGfiykmV9byqMJePE-BbvnjmqYEWAIg0xo33Mss"
               alt="company name"
             />
           </div>
@@ -48,7 +48,7 @@ export default function () {
           <div>
             <img
               className={styles.companyLogo}
-              src="https://media-exp1.licdn.com/dms/image/C4D0BAQEiOnKTm_Cyaw/company-logo_200_200/0/1519925293508?e=1629936000&v=beta&t=lPvSlF5_re14M38mrxbILSR8EoEMJF0johEbfUfUgQo"
+              src="https://media-exp1.licdn.com/dms/image/C4D0BAQGxONgAB9YmXg/company-logo_200_200/0/1519900952739?e=1646265600&v=beta&t=38Y8QaI1ZSLOH8DZ3zYUkxCdUx6DuJdf_YcUbHwyK_0"
               alt="company name"
             />
           </div>
