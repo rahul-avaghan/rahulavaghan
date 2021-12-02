@@ -17,9 +17,9 @@ export default function () {
             <h3>Coachhub - the digital coaching platform</h3>
             <p>2021 June - Present</p>
             <p className={styles.description}>
-              * Contributed to backoffice application for managing coachee data and agreements.
-              * Developed integration for syncronizing coachee and organization data.
-              * Extensively developed automations for managing coachee status in the backend. 
+              * Contributed to backoffice application for managing coachee data and agreements.<br/>
+              * Developed integration for syncronizing coachee and organization data.<br/>
+              * Extensively developed automations for managing coachee status in the backend. <br/>
             </p>
           </div>
         </div>
