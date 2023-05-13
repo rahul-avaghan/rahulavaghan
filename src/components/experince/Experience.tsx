@@ -9,7 +9,7 @@ export default function experience() {
           <div>
             <img
               className={styles.companyLogo}
-              src="https://media-exp1.licdn.com/dms/image/C4D0BAQHQ4AuFrmOQ1A/company-logo_200_200/0/1567611189744?e=1646265600&v=beta&t=eU9DRHi4btwR6sUXePhB0wLerjSFBBQswvwqm33RF60"
+              src="https://media.licdn.com/dms/image/C4D0BAQHQ4AuFrmOQ1A/company-logo_100_100/0/1567611189744?e=1692230400&v=beta&t=Pjx_HD01ZPlc53gVtrgyetIo6SWT6Fu7hjuGGiThkTo"
               alt="company name"
             />
           </div>
