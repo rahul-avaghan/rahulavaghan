@@ -18,7 +18,7 @@ export default function experience() {
           </div>
           <div className={styles.details}>
             <h3>Sentryc- Brand Protection Agency</h3>
-            <p>2022 Jan - Present</p>
+            <p>2022 Jan - Present </p>
             <p className={styles.description}>
            <h4><strong>Technical<strong></h4>
 ✅ Resolved high performance issues of backend by improving the infrastructure and fixing database issues.<br/>
