@@ -27,7 +27,7 @@ export default function experience() {
           <div>
             <img
               className={styles.companyLogo}
-              src="https://media.licdn.com/dms/image/C4D0BAQHQ4AuFrmOQ1A/company-logo_100_100/0/1567611189744?e=1692230400&v=beta&t=Pjx_HD01ZPlc53gVtrgyetIo6SWT6Fu7hjuGGiThkTo"
+              src="https://media.licdn.com/dms/image/C4D0BAQHymfxcVPKrhA/company-logo_100_100/0/1581940288258?e=1692230400&v=beta&t=XVDVRO4s9sP8yYWDk-q8ilTs2FHKPE6lFNuO45gepQM"
               alt="immobilienscout24_logo"
             />
           </div>
