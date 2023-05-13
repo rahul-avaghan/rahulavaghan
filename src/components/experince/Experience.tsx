@@ -27,8 +27,8 @@ export default function experience() {
           <div>
             <img
               className={styles.companyLogo}
-              src="https://media-exp1.licdn.com/dms/image/C4D0BAQHymfxcVPKrhA/company-logo_200_200/0/1581940288258?e=1646265600&v=beta&t=VokvzGfiykmV9byqMJePE-BbvnjmqYEWAIg0xo33Mss"
-              alt="company name"
+              src="https://media.licdn.com/dms/image/C4D0BAQHQ4AuFrmOQ1A/company-logo_100_100/0/1567611189744?e=1692230400&v=beta&t=Pjx_HD01ZPlc53gVtrgyetIo6SWT6Fu7hjuGGiThkTo"
+              alt="immobilienscout24_logo"
             />
           </div>
           <div className={styles.details}>
@@ -49,8 +49,8 @@ export default function experience() {
           <div>
             <img
               className={styles.companyLogo}
-              src="https://media-exp1.licdn.com/dms/image/C4D0BAQF8xaq3CGDOWw/company-logo_200_200/0/1624621530961?e=1646265600&v=beta&t=pXwEO360FkwGLa72oSTCHkC-6Iaoo9emXPgbK4UnlaY"
-              alt="company name"
+              src="https://media.licdn.com/dms/image/C4D0BAQF8xaq3CGDOWw/company-logo_100_100/0/1624621530961?e=1692230400&v=beta&t=2Zpu6UPGp7jYrcUePlKTz12OyxTjVJd_FMSaigp6pFM"
+              alt="NTware logo"
             />
           </div>
           <div className={styles.details}>
@@ -66,8 +66,8 @@ export default function experience() {
           <div>
             <img
               className={styles.companyLogo}
-              src="https://media-exp1.licdn.com/dms/image/C4D0BAQGxONgAB9YmXg/company-logo_200_200/0/1519900952739?e=1646265600&v=beta&t=38Y8QaI1ZSLOH8DZ3zYUkxCdUx6DuJdf_YcUbHwyK_0"
-              alt="company name"
+              src="https://media.licdn.com/dms/image/C4D0BAQGn4ZR6w6geGA/company-logo_100_100/0/1656790100428?e=1692230400&v=beta&t=LMOi2Gq_UvGwphtNzD4hi-2agSI28ACZgXhErWF4K3U"
+              alt="bosch_logo"
             />
           </div>
           <div className={styles.details}>
