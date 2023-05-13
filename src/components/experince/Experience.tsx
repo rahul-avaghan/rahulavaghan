@@ -18,14 +18,14 @@ export default function experience() {
           </div>
           <div className={styles.details}>
             <h3>Sentryc- Brand Protection Agency</h3>
-            <p>2021 June - Present</p>
+            <p>2022 Jan - Present</p>
             <p className={styles.description}>
-           <h4>Technical</h4>
+           <h4><strong>Technical<strong></h4>
 ✅ Resolved high performance issues of backend by improving the infrastructure and fixing database issues.<br/>
 ✅ Validated the product ideas by doing feasibility check.<br/>
 ✅ Improved the quality of the frontend delivery by introducing feature switches.<br/>
 
-<h4>Leadership</h4>
+<h4><strong>Leadership<strong></h4>
 ✅ Leading scrum ceremonies.<br/>
 ✅ Leading a team of 4 engineers and a QA<br/>
 ✅ Improved team’s delivery time.<br/>
@@ -45,7 +45,7 @@ export default function experience() {
           </div>
           <div className={styles.details}>
             <h3>Coachhub - the digital coaching platform</h3>
-            <p>2021 June - Present</p>
+            <p>2021 June - 2021 Dec</p>
             <p className={styles.description}>
             ✅  Contributed to backoffice application for managing coachee data and agreements.<br/>
             ✅  Developed integration for syncronizing coachee and organization data.<br/>
