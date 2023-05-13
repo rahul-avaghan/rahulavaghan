@@ -5,6 +5,36 @@ export default function experience() {
     <div>
       <h2 className="sectionHeader"> 👨‍💻 Work Experience </h2>
       <div className={styles.cardContainer}>
+        
+        
+        
+      <div className={styles.card}>
+          <div>
+            <img
+              className={styles.companyLogo}
+              src="https://media.licdn.com/dms/image/C4D0BAQE9ms39n7POHQ/company-logo_100_100/0/1614869194169?e=1692230400&v=beta&t=Jc1hPk3gvpTZiWvB4QVirpPRCcvYG0fEuVQhYZYyKwo"
+              alt="company name"
+            />
+          </div>
+          <div className={styles.details}>
+            <h3>Sentryc- Brand Protection Agency</h3>
+            <p>2021 June - Present</p>
+            <p className={styles.description}>
+           <h4>Technical</h4>
+✅ Resolved high performance issues of backend by improving the infrastructure and fixing database issues.<br/>
+✅ Validated the product ideas by doing feasibility check.<br/>
+✅ Improved the quality of the frontend delivery by introducing feature switches.<br/>
+
+<h4>Leadership</h4>
+✅ Leading scrum ceremonies.<br/>
+✅ Leading a team of 4 engineers and a QA<br/>
+✅ Improved team’s delivery time.<br/>
+✅ Hired multiple engineers to scale the team.<br/>
+✅ Conducted 1:1 with engineers for career progression , feedback and performance evaluation.<br/>
+✅ Introduced alignment process to resolve conflicts.<br/>
+            </p>
+          </div>
+        </div>
       <div className={styles.card}>
           <div>
             <img
